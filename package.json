@@ -1,0 +1,21 @@
+{
+  "name": "pro-dark-theme",
+  "displayName": "Pro Dark Theme",
+  "description": "Dark theme with no distractions and ultimate focus",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pro Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pro Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
