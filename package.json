@@ -1,10 +1,21 @@
 {
   "name": "pro-dark-theme",
   "displayName": "Pro Dark Theme",
+  "publisher": "michaelassaf",
   "description": "Dark theme with no distractions and ultimate focus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
+  },
+  "icon": "icons/logo.png",
+  "author": {
+    "name": "Michael Assaf",
+    "email": "michael.antoine.assaf@gmail.com",
+    "url": "https://github.com/michaelassaf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelassaf/pro-dark-theme"
   },
   "categories": [
     "Themes"
